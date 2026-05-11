@@ -228,7 +228,7 @@ export default function HomePage() {
                     <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-success opacity-75" />
                     <span className="relative inline-flex rounded-full h-2 w-2 bg-success" />
                   </span>
-                  <span className="text-muted-foreground">100% local et sécurisé</span>
+                  {/* <span className="text-muted-foreground">100% local et sécurisé</span> */}
                 </div>
               </motion.div>
               
