@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   keywords: ['évaluation', 'enseignants', 'analytics', 'école', 'éducation', 'rapports', 'performance'],
   authors: [{ name: 'EduEval' }],
   creator: 'EduEval',
-  metadataBase: new URL('https://edueval.vercel.app'),
+  metadataBase: new URL('https://eduevalapp.vercel.app'),
   openGraph: {
     type: 'website',
     locale: 'fr_FR',
